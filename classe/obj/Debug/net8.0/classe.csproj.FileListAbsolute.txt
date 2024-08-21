@@ -1,0 +1,14 @@
+/home/coding/dio/net/classe/bin/Debug/net8.0/classe
+/home/coding/dio/net/classe/bin/Debug/net8.0/classe.deps.json
+/home/coding/dio/net/classe/bin/Debug/net8.0/classe.runtimeconfig.json
+/home/coding/dio/net/classe/bin/Debug/net8.0/classe.dll
+/home/coding/dio/net/classe/bin/Debug/net8.0/classe.pdb
+/home/coding/dio/net/classe/obj/Debug/net8.0/classe.GeneratedMSBuildEditorConfig.editorconfig
+/home/coding/dio/net/classe/obj/Debug/net8.0/classe.AssemblyInfoInputs.cache
+/home/coding/dio/net/classe/obj/Debug/net8.0/classe.AssemblyInfo.cs
+/home/coding/dio/net/classe/obj/Debug/net8.0/classe.csproj.CoreCompileInputs.cache
+/home/coding/dio/net/classe/obj/Debug/net8.0/classe.dll
+/home/coding/dio/net/classe/obj/Debug/net8.0/refint/classe.dll
+/home/coding/dio/net/classe/obj/Debug/net8.0/classe.pdb
+/home/coding/dio/net/classe/obj/Debug/net8.0/classe.genruntimeconfig.cache
+/home/coding/dio/net/classe/obj/Debug/net8.0/ref/classe.dll
