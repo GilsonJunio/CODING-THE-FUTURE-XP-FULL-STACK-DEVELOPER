@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/coding/dio/net/classe/classe.csproj": {}
+    "/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/classe/classe.csproj": {}
   },
   "projects": {
-    "/home/coding/dio/net/classe/classe.csproj": {
+    "/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/classe/classe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/coding/dio/net/classe/classe.csproj",
+        "projectUniqueName": "/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/classe/classe.csproj",
         "projectName": "classe",
-        "projectPath": "/home/coding/dio/net/classe/classe.csproj",
+        "projectPath": "/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/classe/classe.csproj",
         "packagesPath": "/home/coding/.nuget/packages/",
-        "outputPath": "/home/coding/dio/net/classe/obj/",
+        "outputPath": "/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/classe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/coding/.nuget/NuGet/NuGet.Config"
