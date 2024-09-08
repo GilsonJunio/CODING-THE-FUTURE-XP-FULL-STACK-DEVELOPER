@@ -1,0 +1,15 @@
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/bin/Debug/net8.0/manipulandoVariaveis
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/bin/Debug/net8.0/manipulandoVariaveis.deps.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/bin/Debug/net8.0/manipulandoVariaveis.runtimeconfig.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/bin/Debug/net8.0/manipulandoVariaveis.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/bin/Debug/net8.0/manipulandoVariaveis.pdb
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/manipulandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/manipulandoVariaveis.AssemblyInfoInputs.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/manipulandoVariaveis.AssemblyInfo.cs
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/manipulandoVariaveis.csproj.CoreCompileInputs.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/manipulandoVariaveis.sourcelink.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/manipulandoVariaveis.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/refint/manipulandoVariaveis.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/manipulandoVariaveis.pdb
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/manipulandoVariaveis.genruntimeconfig.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/manipulandoVariaveis/obj/Debug/net8.0/ref/manipulandoVariaveis.dll

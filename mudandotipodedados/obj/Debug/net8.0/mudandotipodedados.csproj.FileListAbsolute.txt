@@ -1,0 +1,15 @@
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/bin/Debug/net8.0/mudandotipodedados
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/bin/Debug/net8.0/mudandotipodedados.deps.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/bin/Debug/net8.0/mudandotipodedados.runtimeconfig.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/bin/Debug/net8.0/mudandotipodedados.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/bin/Debug/net8.0/mudandotipodedados.pdb
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/mudandotipodedados.GeneratedMSBuildEditorConfig.editorconfig
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/mudandotipodedados.AssemblyInfoInputs.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/mudandotipodedados.AssemblyInfo.cs
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/mudandotipodedados.csproj.CoreCompileInputs.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/mudandotipodedados.sourcelink.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/mudandotipodedados.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/refint/mudandotipodedados.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/mudandotipodedados.pdb
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/mudandotipodedados.genruntimeconfig.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/mudandotipodedados/obj/Debug/net8.0/ref/mudandotipodedados.dll
