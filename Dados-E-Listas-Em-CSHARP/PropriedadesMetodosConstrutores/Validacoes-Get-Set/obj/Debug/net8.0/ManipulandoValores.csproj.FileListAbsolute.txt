@@ -1,0 +1,15 @@
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ManipulandoValores.GeneratedMSBuildEditorConfig.editorconfig
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ManipulandoValores.AssemblyInfoInputs.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ManipulandoValores.AssemblyInfo.cs
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ManipulandoValores.csproj.CoreCompileInputs.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ManipulandoValores.sourcelink.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/bin/Debug/net8.0/ManipulandoValores
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/bin/Debug/net8.0/ManipulandoValores.deps.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/bin/Debug/net8.0/ManipulandoValores.runtimeconfig.json
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/bin/Debug/net8.0/ManipulandoValores.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/bin/Debug/net8.0/ManipulandoValores.pdb
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ManipulandoValores.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/refint/ManipulandoValores.dll
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ManipulandoValores.pdb
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ManipulandoValores.genruntimeconfig.cache
+/home/coding/Puxado do Github/CODING-THE-FUTURE-XP-FULL-STACK-DEVELOPER/ManipulandoValores/obj/Debug/net8.0/ref/ManipulandoValores.dll
